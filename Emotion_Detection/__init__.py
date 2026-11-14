@@ -1,0 +1,1 @@
+from .emotion_detector import detect_emotions_in_frame
